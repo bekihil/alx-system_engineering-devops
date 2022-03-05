@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo chmod -R u=+rex hello
+chmod -R u=+rwx hello
